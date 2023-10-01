@@ -163,7 +163,7 @@ function App() {
                     data-to={32}
                     data-refresh-interval={100}
                   >
-                    32K
+                    52K
                   </span>
                   <h4>TRADES MADE</h4>
                 </div>
